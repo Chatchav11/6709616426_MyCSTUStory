@@ -1,3 +1,7 @@
+* {
+    background-color: black;
+    color: white;
+}
 #hi {
     font-family: 'Courier New', Courier, monospace;
     border:15px ridge;
@@ -17,4 +21,21 @@
 }
 h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#JFh1 {
+    text-align: center ;
+    font-size: 50px;
+}
+nav {
+    border: solid;
+    border-radius: 20px;
+    float: left;
+    overflow: auto;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    color: black;
+}
+#Fh2 {
+    font-family: Arial, Helvetica, sans-serif;
 }
