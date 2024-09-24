@@ -1,0 +1,20 @@
+#hi {
+    font-family: 'Courier New', Courier, monospace;
+    border:15px ridge;
+    text-shadow: 2px 1px 2px;
+    box-shadow: 4px 4px 4px;
+}
+#why {
+    color: red;
+}
+#intro {
+    border: outset;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px;
+    box-sizing: border-box;
+    width: 200px;
+    height: 170px;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
