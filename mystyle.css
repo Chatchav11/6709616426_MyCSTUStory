@@ -55,26 +55,24 @@ h2 {
     float: left;
     margin-right: 10px;
     position: relative;
-    left: 200px;
-    clear: both;
+    left: 200px; 
 }
 #Y2 {
     margin-right: 400px;
-    position: relative;
+    position: absolute;
     top: 125px;
-    left: 600px;
-    clear: both; 
+    left: 750px;
 }
 #Y3 {
     margin-right: 400px;
-    position: relative;
+    position: absolute;
     top: 125px;
-    left: 1100px;
+    left: 1250px;
     clear: both;
 }
 #Y4 {
     float: right;
-    position: relative;
+    position: absolute;
     right: 200px;
     top: 125px;
     clear: both;
@@ -93,17 +91,17 @@ h2 {
 }
 #persian {
     float: left;
-    margin-left: 600px;
+    margin-left: 800px;
 
 }
 #Northern {
     float: right;
     position: absolute;
     top: 400px;
-    left: 900px;
+    left: 1200px;
 }
 #Dcareer {
-    margin-left: 600px;
+    margin-left: 800px;
     margin-top: 200px;
     float: left;
     clear: both;
@@ -124,4 +122,27 @@ h2 {
     clear: both;
     margin: 20px;
     margin-left: 70px;
+}
+#Y1-3 {
+    float: left;
+    clear: both;
+    margin: 20px;
+    margin-left: 70px;
+}
+#Y2-1 {
+    clear: both;
+    margin-left: 230px;
+    margin-top: 90px;
+}
+
+#Y3-1 {
+    clear: both;
+    margin-left: 200px;
+    margin-top: 90px;
+}
+
+#Y4-1 {
+    clear: both;
+    margin-left: 280px;
+    margin-top: 90px;
 }
