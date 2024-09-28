@@ -55,25 +55,25 @@ h2 {
     float: left;
     margin-right: 10px;
     position: relative;
-    left: 200px; 
+    left: 180px; 
 }
 #Y2 {
     margin-right: 400px;
     position: absolute;
     top: 125px;
-    left: 750px;
+    left: 650px;
 }
 #Y3 {
-    margin-right: 400px;
+    margin-right: 200px;
     position: absolute;
     top: 125px;
-    left: 1250px;
+    left: 1200px;
     clear: both;
 }
 #Y4 {
     float: right;
     position: absolute;
-    right: 200px;
+    right: 170px;
     top: 125px;
     clear: both;
 
@@ -131,18 +131,18 @@ h2 {
 }
 #Y2-1 {
     clear: both;
-    margin-left: 230px;
+    margin-left: 130px;
     margin-top: 90px;
 }
 
 #Y3-1 {
     clear: both;
-    margin-left: 200px;
+    margin-left: 250px;
     margin-top: 90px;
 }
 
 #Y4-1 {
     clear: both;
-    margin-left: 280px;
+    margin-left: 160px;
     margin-top: 90px;
 }
